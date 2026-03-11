@@ -1,3 +1,5 @@
 .venv
 __pycache__
 repomix-output.xml
+
+.DS_Store
